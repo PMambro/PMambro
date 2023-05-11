@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro Mambro</h1>
-<h3 align="center">A technology lover trying to learn more and more everyday about programminh</h3>
+<h3 align="center">A technology lover trying to learn more and more everyday about programming</h3>
 
 - 🔭 I’m currently working on **Small personal projects with some friends, in order to practice and learn more**
 
-- 🌱 I’m currently learning **POO, javascript, SQL, and some python’s libraries**
+- 🌱 I’m currently learning **POO, java, SQL, and some python’s libraries**
 
 - 👯 I’m looking to collaborate on **Any project that I am able to help with**
 
