@@ -30,6 +30,4 @@
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
   </a>
-  <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argo/argo-original.svg" alt="argocd" width="40" height="40"/>
-  </a></p>
+  </p>
