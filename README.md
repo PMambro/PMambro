@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working as a **Technical Account Manager** at **Huawei Cloud**
 
-- I'm mastering my knowledge about **Cloud Services** everyday
+- 💪 I'm mastering my knowledge about **Cloud Services** everyday
 
 - 🌱 I’m currently studying **DevOps and GitOps** with **ArgoCD, GitLab, Kubernetes, Terraform and Docker applications**
 
-- 👯 I’m looking to collaborate on **Any project that I am able to help with**
+- ✍️ I’m looking to collaborate on **Any project that I am able to help with**
 
 - 🤝 I’m looking for help with **Best practices of script development**
 
