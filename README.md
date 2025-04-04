@@ -18,5 +18,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Docker_logo.svg/1024px-Docker_logo.svg.png" alt="Docker" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Terraform_Logo.svg" alt="Terraform" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Kubernetes_logo.svg" alt="Kubernetes" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/GitLab_Logo.svg" alt="GitLab" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/ArgoCD_logo.svg" alt="ArgoCD" width="50" height="50"/>
