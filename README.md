@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pedro Mambro</h1>
 <h3 align="center">A technology lover trying to learn more and more everyday about programming</h3>
 
-- 🔭 I’m currently working on **Small personal projects with some friends, in order to practice and learn more**
+- 🔭 I’m currently working as a **Technical Account Manager** at **Huawei Cloud**
 
-- 🌱 I’m currently learning **POO, java, SQL, and some python’s libraries**
+- I'm mastering my knowledge about **Cloud Services** everyday
+
+- 🌱 I’m currently studying **DevOps and GitOps** with **ArgoCD, GitLab, Kubernetes, Terraform and Docker applications**
 
 - 👯 I’m looking to collaborate on **Any project that I am able to help with**
 
-- 🤝 I’m looking for help with **Tips on how I can learn to develop different types of softwares**
+- 🤝 I’m looking for help with **Best practices of script development**
 
 - 📫 How to reach me **pedromambro@hotmail.com**
 
