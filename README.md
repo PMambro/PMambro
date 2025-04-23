@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Mambro</h1>
-<h3 align="center">A technology lover currently mastering my Cloud Services Knowledge and Studying the DevOps field</h3>
+<h3 align="center">A technology lover currently focusing my studies on Cloud Services Knowledge and DevOps</h3>
 
 - 🔭 I’m currently working as a **Technical Account Manager** at **Huawei Cloud**
 
